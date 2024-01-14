@@ -588,3 +588,10 @@ img {
 .link {
     display: block;
 }
+
+/* HW5 HEADER */
+
+.active-item {
+    position: relative;
+    color: #404bbf;
+}
