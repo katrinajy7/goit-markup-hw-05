@@ -599,7 +599,7 @@ img {
 
 }
 
-.item::after {
+.active::after {
     content: '';
     position: absolute;
     left: 0;
