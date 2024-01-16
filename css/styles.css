@@ -394,9 +394,9 @@ img {
         0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.social-media {
+/* .social-media {
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     gap: 24px;
 }
 
@@ -417,7 +417,7 @@ img {
 
 .socmed {
     list-style: none;
-}
+} */
 
 .socmed-link:hover {
     background-color: #404bbf;
