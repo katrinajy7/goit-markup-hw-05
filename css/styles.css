@@ -599,7 +599,7 @@ img {
 
 }
 
-.pactive.item::after {
+.pactive::after {
     content: '';
     position: absolute;
     left: 0;
