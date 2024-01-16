@@ -593,8 +593,8 @@ img {
 /* HW5 HEADER */
 
 .item {
-    position: relative;
     color: #404bbf;
+    position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
@@ -611,8 +611,8 @@ img {
     
 }
 
-.contact-item {
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1 ;
+.contact {
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1) ;
 }
 .socmed-link {
     transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
