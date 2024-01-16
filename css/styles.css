@@ -592,14 +592,14 @@ img {
 
 /* HW5 HEADER */
 
-.active.link {
+.active-item-link {
     color: #404bbf;
     position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
 
-.active::after {
+.active-item-link::after {
     content: '';
     position: absolute;
     left: 0;
