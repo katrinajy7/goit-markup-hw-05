@@ -101,6 +101,7 @@ li>.link:focus {
 }
 /* PORTFOLIO HEADER HW5*/
 .active-nav {
+    position: relative;
     color: #404bbf;
 }
 
@@ -110,7 +111,7 @@ li>.link:focus {
     height: 4px;
     background: #404bbf;
     position: absolute;
-    /* left: 0; */
+    left: 0;
     border-radius: 2px;
     opacity: 0;
     bottom: -1px;
