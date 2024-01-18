@@ -686,8 +686,8 @@ img {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.close-button:hover .modal-close,
-.close-button:focus .modal-close {
+.modal-close,
+.modal-close {
     fill: #ffffff;
 }
 
