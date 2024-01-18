@@ -97,7 +97,25 @@ body {
 li>.link:hover,
 li>.link:focus {
     color: var(--ocean);
+    
 }
+/* PORTFOLIO HEADER HW5*/
+.active-nav {
+    color: #404bbf;
+}
+
+.list-item::after {
+    content: "";
+    width: 100%;
+    height: 4px;
+    background: #404bbf;
+    position: absolute;
+    /* left: 0; */
+    border-radius: 2px;
+    opacity: 0;
+    bottom: -1px;
+}
+
 
 /* Address */
 
@@ -305,7 +323,7 @@ li>.link:focus {
     margin-bottom: 16px;
 }
 
-/* FORTFOLIO PAGE */
+/* PORTFOLIO PAGE */
 
 /* Main */
 
