@@ -213,11 +213,11 @@ li>.link:focus {
 }
 
 
-.svc-item:hover .overlay-text {
+.plink:hover .overlay-text {
     transform: translateY(0%);
 }
 
-.svc-item:focus .overlay-text {
+.plink:focus .overlay-text {
     transform: translateY(0%);
 }
 /* .project-card-img {
