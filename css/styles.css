@@ -197,11 +197,11 @@ li>.link:focus {
     transform: translateY(0%);
 }
 
-.link:hover {
+.svc-item:hover {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.link:focus {
+.svc-item:focus {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
